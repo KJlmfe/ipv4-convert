@@ -13,5 +13,8 @@
     "ipv4-convert"
   ],
   "author": "KJlmfe <kjlmfe@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
 }
