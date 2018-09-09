@@ -1,0 +1,17 @@
+{
+  "name": "ipv4-convert",
+  "version": "1.0.0",
+  "description": "Convert an IPv4 address into a 32-bit integer",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "ip",
+    "ipv4",
+    "convert",
+    "ipv4-convert"
+  ],
+  "author": "KJlmfe <kjlmfe@gmail.com>",
+  "license": "MIT"
+}
